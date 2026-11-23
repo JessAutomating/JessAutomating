@@ -12,7 +12,7 @@
 
 **Enterprise IT Engineer | AI Solutions & Enablement | Agentic Systems**
 
-I come from enterprise IT, where the job is keeping real operations running. Day to day I support a five-star resort operation around the clock: more than 600 users, 1,000-plus devices, and a three-person IT team. That means identity and access in Active Directory and Entra ID, device enrollment in Intune, patching in ManageEngine, and the Aruba and Ruckus network underneath it all.
+I come from enterprise IT, where the job is keeping real operations running. Day to day I support a five-star resort operation around the clock: more than 600 users, and 1,000-plus devices. That means identity and access in Active Directory and Entra ID, device enrollment in Intune, patching in ManageEngine, and the Aruba and Ruckus network underneath it all.
 
 That work taught me where operations really break. So I design, test, and support the AI agents, automations, and software that take the repetitive work off a team, and I operate them after they ship. I own the design, the decisions, the tests, and the outcome.
 
